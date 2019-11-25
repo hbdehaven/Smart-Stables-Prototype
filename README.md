@@ -6,4 +6,4 @@ It offers simplistic and beautiful access to all your information on your horses
 
 Here you will see some UX/UI designs for the mobile app. 
 
-There is more to come for the app, mobile and tablet designs, as well as web designs!
+There is more to come for the application, mobile AND tablet designs, as well as web designs!
